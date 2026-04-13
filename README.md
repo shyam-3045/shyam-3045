@@ -16,8 +16,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shyam-3045&style=for-the-badge&color=00cfff&labelColor=0d1117&label=PROFILE+VIEWS)
-
 </div>
 
 ---
