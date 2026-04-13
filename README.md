@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,8,20,24&text=Shyam&fontSize=80&fontColor=00cfff&animation=fadeIn&fontAlignY=55&desc=Backend%20Engineer%20%7C%20DevOps%20%7C%20System%20Thinker&descAlignY=75&descSize=18&descColor=7b8cff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,8,20,24&text=Shyam&fontSize=80&fontColor=00cfff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20System%20Thinker&descAlignY=75&descSize=18&descColor=7b8cff" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&width=700&lines=Building+production-grade+systems+%F0%9F%9A%80;Not+just+a+student+project+%E2%80%94+a+real+engineer;Backend+%2B+DevOps+%2B+System+Design;Containers.+Queues.+Pipelines.+Infra.;BTech+CCE+2027+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&width=700&lines=Building+production-grade+systems+%F0%9F%9A%80;Backend+%2B+DevOps+%2B+System+Design;Containers.+Queues.+Pipelines.+Infra.;BTech+CCE+2027+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-shyam--3045-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00cfff)](https://github.com/shyam-3045)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0077b5)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0077b5)](https://linkedin.com/in/https://www.linkedin.com/in/s-m-shyam-2740b4321/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117&color=7b8cff)](https://YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=ff6ec7)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=ff6ec7)](mailto:s.m.shyam45@gmail.com)
 
 <br/>
 
@@ -22,33 +22,22 @@
 
 ---
 
-<!-- Terminal whoami block -->
-```bash
-┌──[shyam@system ~]
-└─$ whoami
-
-  Role    → Backend Engineer + DevOps (in the making)
-  Degree  → BTech Computer & Communication Engineering (2027)
-  Focus   → Building systems that scale, not just systems that run
-  Style   → Learn by building. Understand internals. Ship real things.
-  Target  → Production-grade infra roles · 30+ LPA 🎯
-```
-
----
-
 <div align="center">
 
 ## ⚡ About Me
 
 </div>
 
-```
-🏗️  Currently building  →  A Vercel/Netlify-like Deployment Orchestration Platform
-🐳  Deep diving into    →  Docker, BullMQ, Logging, Monitoring, Versioning at infra level
-🧠  Learning mindset    →  Internals over abstractions. Real projects over tutorials.
-💼  Freelance           →  Delivered real-world backend systems for actual clients
-🎯  Goal                →  Strong backend + DevOps engineer with system-level thinking
-⚡  Differentiator      →  Rare combo: deployment systems + queues + infra at student level
+```bash
+┌──[shyam@system ~]
+└─$ whoami
+
+  🎓  Degree        →  BTech Computer & Communication Engineering (2027)
+  🏗️  Building      →  A Vercel/Netlify-like Deployment Orchestration Platform
+  🐳  Deep Diving   →  Docker · BullMQ · Logging · Monitoring · Infra Versioning
+  🧠  Mindset       →  Internals over abstractions. Build to learn. Ship real things.
+  💼  Freelance     →  Delivered real FUll Stack systems for actual clients
+  🎯  Target        →  Production-grade backend + DevOps roles · 
 ```
 
 ---
@@ -61,8 +50,6 @@
 
 </div>
 
-<br/>
-
 <!-- Languages -->
 <div align="center">
 
@@ -70,8 +57,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Backend**
 
@@ -79,19 +65,18 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-CC0000?style=for-the-badge&logo=redis&logoColor=white)
-![CDN](https://img.shields.io/badge/CDN-0052CC?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -107,9 +92,7 @@
 
 </div>
 
-<br/>
-
-### ⚡ Deployment Orchestration Platform
+<!-- ### ⚡ Deployment Orchestration Platform
 > *Building the backbone of modern deployment — from scratch*
 
 <table>
@@ -161,24 +144,60 @@ Docker Container (isolated)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 ---
+-->
 
-### 🔧 Freelance Backend Systems
-> *Real clients. Real deadlines. Real shipping.*
+### 🔧 Freelance Projects
+> *Real clients. Real constraints. Full-stack systems shipped.*
 
-- ✅ Delivered end-to-end backend systems for actual clients
-- ✅ Designed & built REST APIs with real-world constraints
-- ✅ Handled DB integration, auth logic, and deployment
-- ✅ Debugged under pressure — no tutorials, just problem-solving
-- ✅ Moved from "it works locally" to "it works in production"
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🟡 Goldfinch — Tea E-commerce Platform
+![Status](https://img.shields.io/badge/Status-Delivered-00cfff?style=flat-square&labelColor=0d1117)
+
+A full-stack tea e-commerce platform — built end-to-end for real usage, covering UI, backend logic, and data layer.
+
+**What I built:**
+- Product, cart & order management APIs
+- Integrated frontend with backend services
+- DB schema optimized for e-commerce queries
+- Business logic for pricing, inventory & order states
+- Integrated Razorpay for payment processing
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+#### 🔵 Laridae — Next.js Application
+![Status](https://img.shields.io/badge/Status-Delivered-00cfff?style=flat-square&labelColor=0d1117)
+
+A full-stack application built with Next.js and TypeScript — focused on SSR, authentication, and reliable system design.
+
+**What I built:**
+- API layer using Node.js + Express
+- Implemented OTP-based authentication using Redis
+- Worked with SSR (Server-Side Rendering) in Next.js
+- Integrated frontend and backend for smooth data flow
+- Integrated Razorpay for payment workflows
+- Debugged and resolved real production issues
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
@@ -193,10 +212,6 @@ Docker Container (isolated)
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-3045&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&text_color=c9d1d9&border_radius=10" />
-
-<br/><br/>
-
 <!-- Activity Graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-3045&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00cfff&line=7b8cff&point=ff6ec7&area=true&area_color=7b8cff" />
 
@@ -206,31 +221,32 @@ Docker Container (isolated)
 
 <div align="center">
 
-## 🧠 Current Focus Areas
 
-</div>
-
-```
-Backend Architecture    ████████████████████░   95%
-Docker & Containers     ██████████████████░░░   88%
-Queue Systems (BullMQ)  ████████████████░░░░░   80%
-Logging & Observability ██████████████░░░░░░░   70%
-System Design           █████████████░░░░░░░░   65%
-Monitoring (Prometheus) ████████████░░░░░░░░░   58%
-DSA in Java             █████████░░░░░░░░░░░░   45%
-```
-
----
 
 <div align="center">
 
 
+<div align="center">
 
-## 📫 Let's Connect
+## 🧠 Current Focus Areas
 
-[![GitHub](https://img.shields.io/badge/GitHub-shyam--3045-0d1117?style=for-the-badge&logo=github&logoColor=white&color=00cfff)](https://github.com/shyam-3045)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Reach_out-0d1117?style=for-the-badge&logo=gmail&logoColor=white&color=ff6ec7)](mailto:YOUR_EMAIL)
+<br/>
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,docker,mysql,git,linux,aws,prometheus,grafana)](https://skillicons.dev)
+
+<br/>
+
+| Skill | Level | Status |
+|-------|-------|--------|
+| Backend Architecture (Node.js) | `████████████████████` 95% | 🟢 Active |
+| Docker & Containers | `██████████████████░░` 88% | 🟢 Active |
+| Queue Systems (BullMQ) | `████████████████░░░░` 80% | 🟢 Building |
+| Logging & Observability | `██████████████░░░░░░` 70% | 🔵 Learning |
+| System Design | `█████████████░░░░░░░` 65% | 🔵 Learning |
+| Monitoring (Prometheus) | `████████████░░░░░░░░` 58% | 🟡 Exploring |
+| DSA in Java | `█████████░░░░░░░░░░░` 45% | 🟡 Ongoing |
+
+</div>
 
 <br/>
 
@@ -240,7 +256,6 @@ DSA in Java             █████████░░░░░░░░░�
 <br/><br/>
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,8,20,24&section=footer" />
 
 </div>
 
