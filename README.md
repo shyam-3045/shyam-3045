@@ -232,19 +232,14 @@ A full-stack application built with Next.js and TypeScript — focused on SSR, a
 
 <br/>
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,docker,mysql,git,linux,aws,prometheus,grafana)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,docker,mysql,git,linux,aws,prometheus,grafana,java,redis&perline=5)](https://skillicons.dev)
 
 <br/>
 
-| Skill | Level | Status |
-|-------|-------|--------|
-| Backend Architecture (Node.js) | `████████████████████` 95% | 🟢 Active |
-| Docker & Containers | `██████████████████░░` 88% | 🟢 Active |
-| Queue Systems (BullMQ) | `████████████████░░░░` 80% | 🟢 Building |
-| Logging & Observability | `██████████████░░░░░░` 70% | 🔵 Learning |
-| System Design | `█████████████░░░░░░░` 65% | 🔵 Learning |
-| Monitoring (Prometheus) | `████████████░░░░░░░░` 58% | 🟡 Exploring |
-| DSA in Java | `█████████░░░░░░░░░░░` 45% | 🟡 Ongoing |
+![Backend](https://img.shields.io/badge/Backend_Engineering-Core_Focus-00cfff?style=for-the-badge&labelColor=0d1117)
+![DevOps](https://img.shields.io/badge/DevOps_%26_Infra-Key_Strength-7b8cff?style=for-the-badge&labelColor=0d1117)
+![System Design](https://img.shields.io/badge/System_Design-Actively_Learning-7b8cff?style=for-the-badge&labelColor=0d1117)
+![DSA](https://img.shields.io/badge/DSA_in_Java-Ongoing-ff6ec7?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
