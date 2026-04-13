@@ -201,13 +201,12 @@ A full-stack application built with Next.js and TypeScript — focused on SSR, a
 
 </div>
 
-<br/>
+
+
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shyam-3045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=7b8cff&text_color=c9d1d9&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-3045&theme=tokyonight&hide_border=true&background=0d1117&stroke=00cfff&ring=7b8cff&fire=ff6ec7&currStreakLabel=00cfff&sideLabels=c9d1d9&dates=8b949e&border_radius=10" />
-
+<img width="49%" src="https://streak-stats.demolab.com/?user=shyam-3045&theme=tokyonight&hide_border=true&background=0d1117&stroke=00cfff&ring=7b8cff&fire=ff6ec7&currStreakLabel=00cfff&sideLabels=c9d1d9&dates=8b949e&border_radius=10" />
 <br/><br/>
 
 <!-- Activity Graph -->
