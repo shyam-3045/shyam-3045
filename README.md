@@ -206,7 +206,7 @@ A full-stack application built with Next.js and TypeScript — focused on SSR, a
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=shyam-3045&theme=tokyonight&hide_border=true&background=0d1117&stroke=00cfff&ring=7b8cff&fire=ff6ec7&currStreakLabel=00cfff&sideLabels=c9d1d9&dates=8b949e&border_radius=10" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=shyam-3045&theme=tokyonight&hide_border=true&background=0d1117&stroke=00cfff&ring=7b8cff&fire=ff6ec7&currStreakLabel=00cfff&sideLabels=c9d1d9&dates=8b949e&border_radius=10&timezone=Asia%2FKolkata" />
 <br/><br/>
 
 <!-- Activity Graph -->
