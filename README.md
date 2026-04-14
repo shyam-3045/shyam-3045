@@ -233,11 +233,6 @@ A full-stack application built with Next.js and TypeScript — focused on SSR, a
 
 <br/>
 
-![Backend](https://img.shields.io/badge/Backend_Engineering-Core_Focus-00cfff?style=for-the-badge&labelColor=0d1117)
-![DevOps](https://img.shields.io/badge/DevOps_%26_Infra-Key_Strength-7b8cff?style=for-the-badge&labelColor=0d1117)
-![System Design](https://img.shields.io/badge/System_Design-Actively_Learning-7b8cff?style=for-the-badge&labelColor=0d1117)
-![DSA](https://img.shields.io/badge/DSA_in_Java-Ongoing-ff6ec7?style=for-the-badge&labelColor=0d1117)
-
 </div>
 
 <br/>
