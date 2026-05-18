@@ -11,7 +11,7 @@
 [![shyam30.me](https://img.shields.io/badge/►_shyam30.me-000000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=111111&color=111111)](https://shyam30.me/)
 [![LinkedIn](https://img.shields.io/badge/►_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=111111&color=111111)](https://www.linkedin.com/in/s-m-shyam-2740b4321/)
 [![Email](https://img.shields.io/badge/►_Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=111111&color=111111)](mailto:s.m.shyam45@gmail.com)
-[![GitHub](https://img.shields.io/badge/►_GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111&color=111111)](https://github.com/shyam-3045)
+
 
 </div>
 
